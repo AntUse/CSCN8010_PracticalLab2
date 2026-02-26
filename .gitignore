@@ -1,0 +1,13 @@
+# Virtual environment (do not push to GitHub)
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.DS_Store
