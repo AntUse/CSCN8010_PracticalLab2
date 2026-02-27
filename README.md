@@ -67,13 +67,8 @@ Evaluation uses **R²**, **Mean Absolute Error (MAE)**, and **Mean Absolute Perc
 - **matplotlib** — scatter plots, histograms, fit curves
 - **seaborn** — correlation heatmap, boxplots
 
-Install with:
 
-```bash
-pip install scikit-learn pandas numpy matplotlib seaborn
-```
-
-Or use the project’s virtual environment if present (e.g. `.venv`).
+## create a venv and install requirements.txt file
 
 ## How to Run
 
